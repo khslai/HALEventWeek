@@ -8,4 +8,4 @@
 
 制作環境：C言語、DirectX 9、Visual Studio 2017
 
-ゲームプレイ動画：
+ゲームプレイ動画：https://youtu.be/hHmKBJwdHqk
